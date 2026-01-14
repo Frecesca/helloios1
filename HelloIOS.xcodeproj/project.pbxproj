@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = 72QDJX3P6Q;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloIOS/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Hello;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -324,6 +325,7 @@
 				DEVELOPMENT_TEAM = 72QDJX3P6Q;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloIOS/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Hello;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
